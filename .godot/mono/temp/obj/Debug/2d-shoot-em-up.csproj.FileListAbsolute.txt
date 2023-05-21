@@ -1,0 +1,17 @@
+C:\Users\chris\Documents\Games\.godot\mono\temp\obj\Debug\2d-shoot-em-up.csproj.AssemblyReference.cache
+C:\Users\chris\Documents\Games\.godot\mono\temp\obj\Debug\2d-shoot-em-up.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\Documents\Games\.godot\mono\temp\obj\Debug\2d-shoot-em-up.AssemblyInfoInputs.cache
+C:\Users\chris\Documents\Games\.godot\mono\temp\obj\Debug\2d-shoot-em-up.AssemblyInfo.cs
+C:\Users\chris\Documents\Games\.godot\mono\temp\obj\Debug\2d-shoot-em-up.csproj.CoreCompileInputs.cache
+C:\Users\chris\Documents\Games\.godot\mono\temp\bin\Debug\2d-shoot-em-up.deps.json
+C:\Users\chris\Documents\Games\.godot\mono\temp\bin\Debug\2d-shoot-em-up.runtimeconfig.json
+C:\Users\chris\Documents\Games\.godot\mono\temp\bin\Debug\2d-shoot-em-up.dll
+C:\Users\chris\Documents\Games\.godot\mono\temp\bin\Debug\2d-shoot-em-up.pdb
+C:\Users\chris\Documents\Games\.godot\mono\temp\bin\Debug\GodotSharp.dll
+C:\Users\chris\Documents\Games\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+C:\Users\chris\Documents\Games\.godot\mono\temp\obj\Debug\2d-shoot-em-up.csproj.CopyComplete
+C:\Users\chris\Documents\Games\.godot\mono\temp\obj\Debug\2d-shoot-em-up.dll
+C:\Users\chris\Documents\Games\.godot\mono\temp\obj\Debug\refint\2d-shoot-em-up.dll
+C:\Users\chris\Documents\Games\.godot\mono\temp\obj\Debug\2d-shoot-em-up.pdb
+C:\Users\chris\Documents\Games\.godot\mono\temp\obj\Debug\2d-shoot-em-up.genruntimeconfig.cache
+C:\Users\chris\Documents\Games\.godot\mono\temp\obj\Debug\ref\2d-shoot-em-up.dll

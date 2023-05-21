@@ -1,0 +1,12 @@
+res://Scene/main_scene.tscn
+res://Scene/Label.cs
+res://Code/CharacterMovement.gd
+res://Scene/character.tscn
+res://Scene/Test22.cs
+res://Code/Score Script.gd
+res://Code/Enemy.gd
+res://Scene/spawner.tscn
+res://Scene/enemy.tscn
+res://Scene/bigger_enemy.tscn
+res://Code/Collectable Spawner.gd
+res://Scene/spawn_area.tscn

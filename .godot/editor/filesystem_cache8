@@ -1,0 +1,28 @@
+2a60927148abd1d33b818b535e306557
+::res://::1684704820
+export_presets.cfg::TextFile::-1::1684700526::0::1::::<><>::
+icon.svg::CompressedTexture2D::6997172082038765227::1684700526::1684700538::1::::<><>::
+::res://Code/::1684704991
+Bullet.gd::GDScript::-1::1684700526::0::1::::<>Area2D<>::
+CharacterMovement.gd::GDScript::-1::1684704991::0::1::::<>CharacterBody2D<>::
+Collectable Spawner.gd::GDScript::-1::1684700526::0::1::::<>CollisionShape2D<>::
+Collectible.gd::GDScript::-1::1684700526::0::1::::<>Area2D<>::
+Enemy.gd::GDScript::-1::1684700526::0::1::::<>CharacterBody2D<>::
+powerable.gd::GDScript::-1::1684700526::0::1::::<>Area2D<>::
+Score Script.gd::GDScript::-1::1684700526::0::1::::<>Node2D<>::
+Spawner.gd::GDScript::-1::1684700526::0::1::::<>Marker2D<>::
+::res://Scene/::1684706218
+bigger_enemy.tscn::PackedScene::6159894260925694210::1684700526::0::1::::<><>::res://Code/Enemy.gd<>uid://br1gutaatb6bu
+bullet.tscn::PackedScene::7034121613692889423::1684700526::0::1::::<><>::res://Code/Bullet.gd<>uid://dj06uhupptb62
+character.tscn::PackedScene::2874673260588138233::1684706218::0::1::::<><>::res://Code/CharacterMovement.gd<>uid://c7hm7qkkm1rb0<>uid://bant2odl7yq3y
+collectible.tscn::PackedScene::6663160240250664192::1684700526::0::1::::<><>::res://Code/Collectible.gd
+enemy.tscn::PackedScene::1241745960058873915::1684700526::0::1::::<><>::res://Code/Enemy.gd<>uid://br1gutaatb6bu
+main_scene.tscn::PackedScene::8877468754518063325::1684706300::0::1::::<><>::res://Code/Score Script.gd<>uid://bg7rpiubrhh1b<>res://Scene/Label.cs<>uid://ct05s8vrgf6io<>uid://chluf4qb455d5<>uid://dqq6h8h061orv
+powerable.tscn::PackedScene::3693134386173603094::1684700526::0::1::::<><>::res://Code/powerable.gd
+Label.cs::CSharpScript::-1::1684706205::0::1::::<><>::
+spawner.tscn::PackedScene::5288096244951368028::1684700526::0::1::::<><>::res://Code/Spawner.gd<>uid://rxrmy77myb60
+spawn_area.tscn::PackedScene::8317210065948408751::1684700526::0::1::::<><>::res://Code/Collectable Spawner.gd<>uid://c16xjmwoohnsq<>uid://bsu8nbvtd4bvq
+::res://Sounds/::1684700538
+Kill.wav::AudioStreamWAV::3633705862949020778::1684700526::1684700538::1::::<><>::
+Player_Kill.wav::AudioStreamWAV::2414460174298703600::1684700526::1684700538::1::::<><>::
+Poof.wav::AudioStreamWAV::7844489429588812069::1684700526::1684700538::1::::<><>::

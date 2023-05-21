@@ -11,7 +11,7 @@ func _ready():
 	if small_timer_randomization == true:
 		actual_spawn_interval = spawn_interval + randf_range(-0.75, 0.75)
 
-# Called every frame. 'delta' is the elapsed time since the previous frame.
+# Called every frame. 'delta' is the elapsed time since the previous frame. TEST
 func _process(delta):
 	timer += delta
 	# Handle spawning

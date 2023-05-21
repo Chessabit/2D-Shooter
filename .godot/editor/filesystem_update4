@@ -10,3 +10,4 @@ res://Scene/enemy.tscn
 res://Scene/bigger_enemy.tscn
 res://Code/Collectable Spawner.gd
 res://Scene/spawn_area.tscn
+res://Code/Spawner.gd
